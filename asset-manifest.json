@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NotezApp/static/css/main.50518881.css",
-    "main.js": "/NotezApp/static/js/main.cba83e54.js",
-    "index.html": "/NotezApp/index.html",
-    "main.50518881.css.map": "/NotezApp/static/css/main.50518881.css.map",
-    "main.cba83e54.js.map": "/NotezApp/static/js/main.cba83e54.js.map"
+    "main.css": "/Notez/static/css/main.50518881.css",
+    "main.js": "/Notez/static/js/main.cba83e54.js",
+    "index.html": "/Notez/index.html",
+    "main.50518881.css.map": "/Notez/static/css/main.50518881.css.map",
+    "main.cba83e54.js.map": "/Notez/static/js/main.cba83e54.js.map"
   },
   "entrypoints": [
     "static/css/main.50518881.css",
