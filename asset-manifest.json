@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fahadabbas920/NotezApp.git/static/css/main.50518881.css",
+    "main.js": "/fahadabbas920/NotezApp.git/static/js/main.cba83e54.js",
+    "index.html": "/fahadabbas920/NotezApp.git/index.html",
+    "main.50518881.css.map": "/fahadabbas920/NotezApp.git/static/css/main.50518881.css.map",
+    "main.cba83e54.js.map": "/fahadabbas920/NotezApp.git/static/js/main.cba83e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50518881.css",
+    "static/js/main.cba83e54.js"
+  ]
+}
